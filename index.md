@@ -1,28 +1,15 @@
 ## M D Sacchi 
 
-You can use the [editor on GitHub](https://github.com/msacchi/msacchi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Professor of Geophysics at the University of Alberta
 
 ### Markdown
 
-XXXXXXXXXXX
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-sssss
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header ssss2
-### Header sasdada3
+- [My UofA officia website](
 
-- Bulleted
-- List
+- [My less offcial UofA site] (https://sites.ualberta.ca/~msacchi/)
 
-1. hello
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
