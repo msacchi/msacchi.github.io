@@ -25,8 +25,7 @@ My work is at the intersection of
 - **Statistical and sparse signal processing**
 - **Computational geophysics and numerical methods**
 
-with a strong emphasis on algorithmic development, open-source software, and  
-training students to connect physical modeling with modern optimization and machine learning ideas.
+with a strong emphasis on algorithmic development, open-source software, and  training students to connect physical modeling with modern optimization and machine learning ideas.
 
 ---
 
@@ -40,17 +39,7 @@ training students to connect physical modeling with modern optimization and mach
 - Machine learning for seismic processing and imaging  
 
 If you are interested in MSc/PhD or postdoctoral work related to these topics,  
-feel free to contact me by email.
-
----
-
-## News
-
-- 2025 – Developing Julia-based teaching material for **Computational Physics (PHYS 420/580)**.  
-- 2025 – Ongoing projects on FWI, tensor methods for seismic reconstruction, and diffusion-based models for 3D data processing.  
-- 2024–2025 – Several papers under review on sparsity-promoting reconstruction, tensor networks, and diffusion models for seismic data.
-
-*(More detailed news can go here as you like.)*
+feel free to contact me by email. 
 
 ---
 
@@ -61,11 +50,10 @@ At the University of Alberta I regularly teach or have taught:
 - **PHYS 420 / 580 – Computational Physics**  
   Emphasis on Julia, operator-based formulations, PDE solvers, Monte Carlo, and inverse problems.
 
-- **GEOPH 426 / 526 – Seismic Data Processing**  
-  Classical and modern signal processing for seismic data: FX prediction filters, Radon transforms, deconvolution, and rank-reduction methods.
+- **GEOPH 426 / 526 – Geophysical Signal Processing**  
+  Classical and modern signal processing for geophysical data: Fourier Series, Fourier Transform, Discrete Fourier Transforms, Convolution, Correlation, z-transfroms, inverse filters, FX processing, FK filters, predictability of signals, reduced-rank filtering, Radon  Transforms, Stationary stochastic processes and time series modelling (AR, MA, ARMA models), non-parametric and parametric Powers Spectral estimation
 
-- Special topics in **Inverse Problems**, **Wave Propagation & Imaging**, and  
-  **Signal Processing for Geophysical Applications**.
+- Special topics in **Inverse Problems**, **Wave Propagation & Imaging**, and **Signal Processing for Geophysical Applications**.
 
 Whenever possible, course examples are implemented in **Julia** and released as open material so that students can extend them into their own research tools.
 
@@ -79,10 +67,10 @@ Current and recent topics include (non-exhaustive):
 - Tensor-based reconstruction and denoising of 5D seismic data  
 - Diffusion models for deconvolution and seismic data enhancement  
 - Wave-equation based imaging and FWI in complex media  
-- Sparse and low-rank models for noise attenuation, deblending, and interpolation  
+- Sparse and low-rank models for noise attenuation, deblending, and interpolation
+- Disperse source arrays 
 
-I am always interested in motivated students who enjoy both **theory** and **coding**.  
-If you like inverse problems, wave propagation, and signal processing, send me an email.
+I am always interested in motivated students who enjoy both **theory** and **coding**. If you like inverse problems, wave propagation, and signal processing, send me an email.
 
 ---
 
