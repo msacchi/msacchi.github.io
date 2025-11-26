@@ -1,5 +1,14 @@
 title: "Mauricio D. Sacchi"
-description: "Professor of Physics, University of Alberta – Signal Analysis & Imaging Group (SAIG)"
-theme: theme: jekyll-theme-slate
+description: "Professor of Physics, University of Alberta — SAIG"
 
+theme: jekyll-theme-minimal
+logo: /portrait.jpg
 
+email: msacchi@ualberta.ca
+github_username: msacchi
+
+show_downloads: false
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
