@@ -102,18 +102,15 @@ Selected repositories on GitHub:
 
 ## Publications
 
-For a reasonably up-to-date list of publications, see:
 
-- Google Scholar: <a href="https://scholar.google.com">[link to be added]</a>  
-- SEG / CSEG and journal articles on seismic signal analysis and imaging.
+- Google Scholar: <a [href="https://scholar.google.com](https://scholar.google.com/citations?user=uBMvbQYAAAAJ&hl=en)">[link]</a>  
 
-You can also contact me by email if you need a specific paper or preprint.
 
 ---
 
 ## Service & Professional Activities
 
-- Former **Editor of *Geophysics***.  
+- Former **Editor of *Geophysics 2015-2017***.  
 - Service on editorial boards and as reviewer for several geophysics and signal processing journals.  
 - Active involvement in **SEG**, **CSEG**, and various academic and departmental committees.  
 
