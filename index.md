@@ -103,7 +103,7 @@ Selected repositories on GitHub:
 ## Publications
 
 
-- Google Scholar: <a [href="https://scholar.google.com](https://scholar.google.com/citations?user=uBMvbQYAAAAJ&hl=en)">[link]</a>  
+- <a href="https://scholar.google.com/citations?user=uBMvbQYAAAAJ&hl=en"> Google Scholar </a>  
 
 
 ---
