@@ -1,7 +1,10 @@
 ---
 title: "Mauricio D. Sacchi"
 ---
-
+<img src="Photo.png"
+     alt="Mauricio D. Sacchi"
+     style="width:200px; border-radius:50%; margin-bottom:1rem;">
+     
 # Mauricio D. Sacchi
 
 Professor, Department of Physics  
