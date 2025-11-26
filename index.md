@@ -1,7 +1,6 @@
 ---
 title: "Mauricio D. Sacchi"
 ---
-![me](Photo.png)
 
      
 # Mauricio D. Sacchi
